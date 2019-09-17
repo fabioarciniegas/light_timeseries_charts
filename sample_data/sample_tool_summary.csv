@@ -1,0 +1,917 @@
+time,tool,metric,measure
+2019-01-09,DAST - arachni,low,179
+2018-12-15,DAST - arachni,low,180
+2018-10-28,DAST - arachni,low,181
+2019-01-12,DAST - arachni,low,179
+2018-12-03,DAST - arachni,low,181
+2018-11-06,DAST - arachni,low,180
+2018-11-11,DAST - arachni,low,179
+2018-11-16,DAST - arachni,low,179
+2018-09-28,DAST - arachni,low,180
+2019-01-02,DAST - arachni,low,181
+2019-02-13,DAST - arachni,low,111
+2019-03-01,DAST - arachni,low,112
+2019-02-17,DAST - arachni,low,111
+2019-02-21,DAST - arachni,low,111
+2019-02-28,DAST - arachni,low,110
+2019-02-03,DAST - arachni,low,111
+2019-02-13,DAST - arachni,low,110
+2019-02-22,DAST - arachni,low,110
+2019-02-16,DAST - arachni,low,111
+2019-03-09,DAST - arachni,low,109
+2019-03-13,DAST - arachni,low,81
+2019-03-15,DAST - arachni,low,82
+2019-03-16,DAST - arachni,low,79
+2019-03-18,DAST - arachni,low,82
+2019-03-19,DAST - arachni,low,81
+2019-03-14,DAST - arachni,low,80
+2019-03-12,DAST - arachni,low,84
+2019-03-12,DAST - arachni,low,81
+2019-03-19,DAST - arachni,low,79
+2019-03-19,DAST - arachni,low,82
+2018-12-17,DAST - arachni,medium,31
+2018-11-06,DAST - arachni,medium,30
+2018-11-05,DAST - arachni,medium,31
+2018-12-24,DAST - arachni,medium,32
+2019-01-03,DAST - arachni,medium,31
+2018-10-19,DAST - arachni,medium,29
+2018-10-30,DAST - arachni,medium,29
+2018-10-05,DAST - arachni,medium,29
+2018-11-06,DAST - arachni,medium,31
+2018-12-24,DAST - arachni,medium,31
+2019-03-03,DAST - arachni,medium,12
+2019-02-10,DAST - arachni,medium,12
+2019-02-04,DAST - arachni,medium,11
+2019-02-07,DAST - arachni,medium,11
+2019-03-08,DAST - arachni,medium,12
+2019-02-10,DAST - arachni,medium,11
+2019-02-04,DAST - arachni,medium,11
+2019-03-08,DAST - arachni,medium,11
+2019-03-03,DAST - arachni,medium,12
+2019-03-01,DAST - arachni,medium,13
+2019-03-15,DAST - arachni,medium,4
+2019-03-13,DAST - arachni,medium,4
+2019-03-09,DAST - arachni,medium,3
+2019-03-14,DAST - arachni,medium,3
+2019-03-14,DAST - arachni,medium,3
+2019-03-15,DAST - arachni,medium,3
+2019-03-18,DAST - arachni,medium,3
+2019-03-18,DAST - arachni,medium,3
+2019-03-09,DAST - arachni,medium,4
+2019-03-10,DAST - arachni,medium,2
+2018-10-19,DAST - arachni,high,2
+2018-10-06,DAST - arachni,high,5
+2018-10-23,DAST - arachni,high,5
+2018-11-14,DAST - arachni,high,6
+2018-10-09,DAST - arachni,high,3
+2018-12-03,DAST - arachni,high,5
+2018-11-27,DAST - arachni,high,4
+2018-12-16,DAST - arachni,high,4
+2019-01-17,DAST - arachni,high,4
+2019-01-06,DAST - arachni,high,2
+2019-02-07,DAST - arachni,high,2
+2019-01-28,DAST - arachni,high,2
+2019-03-02,DAST - arachni,high,1
+2019-01-31,DAST - arachni,high,1
+2019-02-13,DAST - arachni,high,1
+2019-03-09,DAST - arachni,high,2
+2019-02-11,DAST - arachni,high,1
+2019-02-27,DAST - arachni,high,2
+2019-02-09,DAST - arachni,high,1
+2019-02-19,DAST - arachni,high,1
+2019-03-09,DAST - arachni,high,0
+2019-03-15,DAST - arachni,high,0
+2019-03-15,DAST - arachni,high,0
+2019-03-16,DAST - arachni,high,0
+2019-03-10,DAST - arachni,high,0
+2019-03-17,DAST - arachni,high,0
+2019-03-19,DAST - arachni,high,0
+2019-03-18,DAST - arachni,high,0
+2019-03-13,DAST - arachni,high,0
+2019-03-17,DAST - arachni,high,0
+2019-01-13,pytest,coverage,7.745745088603986
+2019-01-10,pytest,coverage,9.56042802349327
+2019-01-15,pytest,coverage,10.731425061707242
+2019-01-14,pytest,coverage,10.35083451105148
+2019-01-15,pytest,coverage,9.740127561405117
+2019-01-11,pytest,number of tests,1.0
+2019-01-15,pytest,number of tests,1.0
+2019-01-13,pytest,number of tests,1.0
+2018-12-29,pytest,number of tests,1.0
+2018-12-31,pytest,number of tests,1.0
+2019-01-28,pytest,coverage,72.0
+2019-03-17,pytest,coverage,72.0
+2019-02-11,pytest,coverage,72.0
+2019-02-14,pytest,coverage,72.0
+2019-03-06,pytest,coverage,72.0
+2019-02-27,pytest,coverage,72.0
+2019-01-23,pytest,coverage,72.0
+2019-01-30,pytest,coverage,72.0
+2019-03-03,pytest,coverage,72.0
+2019-03-14,pytest,coverage,72.0
+2019-03-07,pytest,coverage,72.0
+2019-01-28,pytest,coverage,72.0
+2019-03-16,pytest,coverage,72.0
+2019-02-10,pytest,coverage,72.0
+2019-03-09,pytest,coverage,72.0
+2019-02-16,pytest,coverage,72.0
+2019-02-09,pytest,coverage,72.0
+2019-03-16,pytest,coverage,72.0
+2019-03-09,pytest,coverage,72.0
+2019-02-02,pytest,coverage,72.0
+2019-01-30,pytest,coverage,72.0
+2019-02-05,pytest,coverage,72.0
+2019-02-23,pytest,coverage,72.0
+2019-03-09,pytest,coverage,72.0
+2019-01-30,pytest,coverage,72.0
+2019-02-11,pytest,coverage,72.0
+2019-02-09,pytest,coverage,72.0
+2019-02-25,pytest,coverage,72.0
+2019-02-19,pytest,coverage,72.0
+2019-03-11,pytest,coverage,72.0
+2019-03-16,pytest,coverage,72.0
+2019-03-19,pytest,coverage,72.0
+2019-03-06,pytest,coverage,72.0
+2019-03-07,pytest,coverage,72.0
+2019-03-02,pytest,coverage,72.0
+2019-02-20,pytest,coverage,72.0
+2019-02-11,pytest,coverage,72.0
+2019-02-27,pytest,coverage,72.0
+2019-03-05,pytest,coverage,72.0
+2019-02-23,pytest,coverage,72.0
+2019-02-08,pytest,coverage,72.0
+2019-02-13,pytest,coverage,72.0
+2019-03-16,pytest,coverage,72.0
+2019-01-25,pytest,coverage,72.0
+2019-02-18,pytest,coverage,72.0
+2019-02-28,pytest,coverage,72.0
+2019-01-26,pytest,coverage,72.0
+2019-02-20,pytest,coverage,72.0
+2019-02-27,pytest,coverage,72.0
+2019-02-03,pytest,coverage,72.0
+2019-02-21,pytest,coverage,72.0
+2019-02-01,pytest,coverage,72.0
+2019-01-25,pytest,coverage,72.0
+2019-03-10,pytest,coverage,72.0
+2019-02-25,pytest,coverage,72.0
+2019-03-14,pytest,coverage,72.0
+2019-02-16,pytest,coverage,72.0
+2019-02-16,pytest,coverage,72.0
+2019-03-02,pytest,coverage,72.0
+2019-02-17,pytest,coverage,72.0
+2019-02-17,pytest,coverage,72.0
+2019-02-06,pytest,coverage,72.0
+2019-03-17,pytest,coverage,72.0
+2019-02-26,pytest,coverage,72.0
+2019-03-12,pytest,coverage,72.0
+2019-01-28,pytest,coverage,72.0
+2019-02-19,pytest,coverage,72.0
+2019-03-06,pytest,coverage,72.0
+2019-03-06,pytest,coverage,72.0
+2019-01-26,pytest,coverage,72.0
+2019-01-31,pytest,coverage,72.0
+2019-02-14,pytest,coverage,72.0
+2019-02-08,pytest,coverage,72.0
+2019-02-27,pytest,coverage,72.0
+2019-03-07,pytest,coverage,72.0
+2019-02-09,pytest,coverage,72.0
+2019-01-22,pytest,coverage,72.0
+2019-02-28,pytest,coverage,72.0
+2019-02-10,pytest,coverage,72.0
+2019-03-04,pytest,coverage,72.0
+2019-01-22,pytest,coverage,72.0
+2019-02-26,pytest,coverage,72.0
+2019-02-06,pytest,coverage,72.0
+2019-02-11,pytest,coverage,72.0
+2019-03-02,pytest,coverage,72.0
+2019-01-28,pytest,coverage,72.0
+2019-02-10,pytest,coverage,72.0
+2019-03-12,pytest,coverage,72.0
+2019-02-11,pytest,coverage,72.0
+2019-02-14,pytest,coverage,72.0
+2019-02-07,pytest,coverage,72.0
+2019-02-16,pytest,coverage,72.0
+2019-02-14,pytest,coverage,72.0
+2019-02-28,pytest,coverage,72.0
+2019-02-20,pytest,coverage,72.0
+2019-03-05,pytest,coverage,72.0
+2019-02-04,pytest,coverage,72.0
+2019-03-16,pytest,coverage,72.0
+2019-02-25,pytest,coverage,72.0
+2019-03-14,pytest,coverage,72.0
+2019-03-01,pytest,number of tests,8.0
+2019-03-15,pytest,number of tests,8.0
+2019-03-17,pytest,number of tests,8.0
+2019-03-14,pytest,number of tests,8.0
+2019-02-15,pytest,number of tests,8.0
+2019-02-14,pytest,number of tests,8.0
+2019-03-03,pytest,number of tests,8.0
+2019-03-10,pytest,number of tests,8.0
+2019-03-05,pytest,number of tests,8.0
+2019-02-19,pytest,number of tests,8.0
+2019-02-23,pytest,number of tests,8.0
+2019-03-03,pytest,number of tests,8.0
+2019-03-08,pytest,number of tests,8.0
+2019-03-09,pytest,number of tests,8.0
+2019-03-15,pytest,number of tests,8.0
+2019-02-28,pytest,number of tests,8.0
+2019-03-13,pytest,number of tests,8.0
+2019-03-10,pytest,number of tests,8.0
+2019-03-14,pytest,number of tests,8.0
+2019-03-02,pytest,number of tests,8.0
+2019-02-25,pytest,number of tests,8.0
+2019-01-28,pytest,number of tests,8.0
+2019-02-08,pytest,number of tests,8.0
+2019-03-09,pytest,number of tests,8.0
+2019-02-25,pytest,number of tests,8.0
+2019-03-12,pytest,number of tests,8.0
+2019-03-11,pytest,number of tests,8.0
+2019-02-14,pytest,number of tests,8.0
+2019-02-12,pytest,number of tests,8.0
+2019-02-03,pytest,number of tests,8.0
+2019-02-08,pytest,number of tests,8.0
+2019-01-30,pytest,number of tests,8.0
+2019-02-05,pytest,number of tests,8.0
+2019-02-13,pytest,number of tests,8.0
+2019-02-22,pytest,number of tests,8.0
+2019-03-14,pytest,number of tests,8.0
+2019-03-03,pytest,number of tests,8.0
+2019-02-24,pytest,number of tests,8.0
+2019-01-20,pytest,number of tests,8.0
+2019-02-22,pytest,number of tests,8.0
+2019-02-18,pytest,number of tests,8.0
+2019-01-19,pytest,number of tests,8.0
+2019-02-15,pytest,number of tests,8.0
+2019-02-07,pytest,number of tests,8.0
+2019-03-13,pytest,number of tests,8.0
+2019-02-21,pytest,number of tests,8.0
+2019-01-22,pytest,number of tests,8.0
+2019-03-06,pytest,number of tests,8.0
+2019-03-01,pytest,number of tests,8.0
+2019-03-14,pytest,number of tests,8.0
+2019-02-22,pytest,number of tests,8.0
+2019-02-27,pytest,number of tests,8.0
+2019-03-03,pytest,number of tests,8.0
+2019-01-26,pytest,number of tests,8.0
+2019-03-16,pytest,number of tests,8.0
+2019-02-01,pytest,number of tests,8.0
+2019-01-26,pytest,number of tests,8.0
+2019-02-28,pytest,number of tests,8.0
+2019-03-08,pytest,number of tests,8.0
+2019-02-03,pytest,number of tests,8.0
+2019-02-26,pytest,number of tests,8.0
+2019-03-09,pytest,number of tests,8.0
+2019-01-21,pytest,number of tests,8.0
+2019-01-23,pytest,number of tests,8.0
+2019-03-16,pytest,number of tests,8.0
+2019-02-11,pytest,number of tests,8.0
+2019-02-02,pytest,number of tests,8.0
+2019-02-08,pytest,number of tests,8.0
+2019-03-06,pytest,number of tests,8.0
+2019-03-10,pytest,number of tests,8.0
+2019-03-10,pytest,number of tests,8.0
+2019-03-13,pytest,number of tests,8.0
+2019-01-19,pytest,number of tests,8.0
+2019-02-13,pytest,number of tests,8.0
+2019-03-12,pytest,number of tests,8.0
+2019-03-07,pytest,number of tests,8.0
+2019-02-04,pytest,number of tests,8.0
+2019-02-14,pytest,number of tests,8.0
+2019-01-23,pytest,number of tests,8.0
+2019-03-19,pytest,number of tests,8.0
+2019-02-06,pytest,number of tests,8.0
+2019-02-20,pytest,number of tests,8.0
+2019-02-11,pytest,number of tests,8.0
+2019-02-22,pytest,number of tests,8.0
+2019-01-20,pytest,number of tests,8.0
+2019-03-14,pytest,number of tests,8.0
+2019-02-27,pytest,number of tests,8.0
+2019-02-05,pytest,number of tests,8.0
+2019-03-10,pytest,number of tests,8.0
+2019-02-01,pytest,number of tests,8.0
+2019-03-05,pytest,number of tests,8.0
+2019-01-25,pytest,number of tests,8.0
+2019-01-19,pytest,number of tests,8.0
+2019-03-06,pytest,number of tests,8.0
+2019-02-02,pytest,number of tests,8.0
+2019-02-24,pytest,number of tests,8.0
+2019-03-12,pytest,number of tests,8.0
+2019-02-21,pytest,number of tests,8.0
+2019-01-22,pytest,number of tests,8.0
+2019-03-16,pytest,number of tests,8.0
+2019-03-17,pytest,failed tests,1.9364887394164247
+2019-03-15,pytest,failed tests,3.5800671720851662
+2019-03-12,pytest,failed tests,3.446094704004248
+2019-03-15,pytest,failed tests,3.186977788169782
+2019-03-14,pytest,failed tests,4.133309011474869
+2019-03-12,pytest,failed tests,3.6445704475825464
+2019-03-16,pytest,failed tests,3.1220696692380105
+2019-03-19,pytest,failed tests,3.792061535482804
+2019-03-11,pytest,failed tests,2.0085131621064707
+2019-03-11,pytest,failed tests,2.105513847413898
+2019-03-18,pytest,failed tests,2.343424279558493
+2019-03-11,pytest,failed tests,3.4136659794290054
+2019-03-13,pytest,failed tests,2.625586569923439
+2019-03-19,pytest,failed tests,2.6707919153272828
+2019-03-15,pytest,failed tests,2.361536597924089
+2019-03-19,pytest,failed tests,1.441783637983447
+2019-03-15,pytest,failed tests,4.4686575954414085
+2019-03-19,pytest,failed tests,2.658360300080701
+2019-03-18,pytest,failed tests,3.003826721926664
+2019-03-10,pytest,failed tests,2.6192883907461924
+2019-02-28,SAST - bandit,high severity - high confidence,10.0
+2019-03-04,SAST - bandit,high severity - high confidence,10.0
+2019-03-05,SAST - bandit,high severity - high confidence,10.0
+2019-03-09,SAST - bandit,high severity - high confidence,10.0
+2019-03-06,SAST - bandit,high severity - high confidence,10.0
+2019-03-13,SAST - bandit,high severity - high confidence,0.0
+2019-03-15,SAST - bandit,high severity - high confidence,0.0
+2019-03-17,SAST - bandit,high severity - high confidence,0.0
+2019-03-15,SAST - bandit,high severity - high confidence,0.0
+2019-03-14,SAST - bandit,high severity - high confidence,0.0
+2019-02-27,SAST - bandit,medium severity - high confidence,20.0
+2019-02-28,SAST - bandit,medium severity - high confidence,20.0
+2019-03-07,SAST - bandit,medium severity - high confidence,20.0
+2019-03-07,SAST - bandit,medium severity - high confidence,20.0
+2019-03-02,SAST - bandit,medium severity - high confidence,20.0
+2019-03-15,SAST - bandit,medium severity - high confidence,8.0
+2019-03-10,SAST - bandit,medium severity - high confidence,8.0
+2019-03-12,SAST - bandit,medium severity - high confidence,8.0
+2019-03-16,SAST - bandit,medium severity - high confidence,8.0
+2019-03-10,SAST - bandit,medium severity - high confidence,8.0
+2019-02-06,SAST - pylint and hadolint,normalized pylint score,50.305416170144476
+2019-02-26,SAST - pylint and hadolint,normalized pylint score,49.834792720833775
+2019-01-20,SAST - pylint and hadolint,normalized pylint score,50.414501922070436
+2019-02-12,SAST - pylint and hadolint,normalized pylint score,49.95176423107537
+2019-02-02,SAST - pylint and hadolint,normalized pylint score,50.24020660685335
+2019-02-21,SAST - pylint and hadolint,normalized pylint score,50.16849083393483
+2019-02-08,SAST - pylint and hadolint,normalized pylint score,50.18699920244825
+2019-01-25,SAST - pylint and hadolint,normalized pylint score,49.57931959438149
+2019-02-10,SAST - pylint and hadolint,normalized pylint score,49.94310064506363
+2019-01-26,SAST - pylint and hadolint,normalized pylint score,50.11673824618121
+2019-02-27,SAST - pylint and hadolint,normalized pylint score,49.97583437431519
+2019-01-22,SAST - pylint and hadolint,normalized pylint score,50.2596405191419
+2019-02-11,SAST - pylint and hadolint,normalized pylint score,50.22139089995959
+2019-02-22,SAST - pylint and hadolint,normalized pylint score,50.264366683478684
+2019-02-15,SAST - pylint and hadolint,normalized pylint score,49.40594170580947
+2019-01-20,SAST - pylint and hadolint,normalized pylint score,49.92749383977446
+2019-02-06,SAST - pylint and hadolint,normalized pylint score,50.37753611476496
+2019-02-12,SAST - pylint and hadolint,normalized pylint score,49.62557555181025
+2019-02-03,SAST - pylint and hadolint,normalized pylint score,50.2136836720854
+2019-02-24,SAST - pylint and hadolint,normalized pylint score,49.74973266022628
+2019-02-27,SAST - pylint and hadolint,normalized pylint score,50.07748782334091
+2019-02-24,SAST - pylint and hadolint,normalized pylint score,50.18009427261793
+2019-02-19,SAST - pylint and hadolint,normalized pylint score,49.47236591859139
+2019-02-25,SAST - pylint and hadolint,normalized pylint score,49.9278227186395
+2019-02-18,SAST - pylint and hadolint,normalized pylint score,49.968545482286096
+2019-02-16,SAST - pylint and hadolint,normalized pylint score,50.117575776768376
+2019-02-09,SAST - pylint and hadolint,normalized pylint score,50.283302666116235
+2019-02-01,SAST - pylint and hadolint,normalized pylint score,49.79914435427194
+2019-01-24,SAST - pylint and hadolint,normalized pylint score,49.59004291285155
+2019-01-20,SAST - pylint and hadolint,normalized pylint score,49.67530014836494
+2019-02-19,SAST - pylint and hadolint,normalized pylint score,49.736692154943384
+2019-02-12,SAST - pylint and hadolint,normalized pylint score,50.73502804918635
+2019-02-22,SAST - pylint and hadolint,normalized pylint score,49.899229604730586
+2019-02-09,SAST - pylint and hadolint,normalized pylint score,49.93248215163462
+2019-01-28,SAST - pylint and hadolint,normalized pylint score,50.5686001026827
+2019-01-29,SAST - pylint and hadolint,normalized pylint score,50.06578547173501
+2019-02-08,SAST - pylint and hadolint,normalized pylint score,50.09374035816878
+2019-01-19,SAST - pylint and hadolint,normalized pylint score,49.98111178468391
+2019-01-29,SAST - pylint and hadolint,normalized pylint score,49.374790104156915
+2019-02-24,SAST - pylint and hadolint,normalized pylint score,49.82917389652884
+2019-01-25,SAST - pylint and hadolint,normalized pylint score,50.09640149221732
+2019-01-22,SAST - pylint and hadolint,normalized pylint score,49.70448735054622
+2019-02-26,SAST - pylint and hadolint,normalized pylint score,49.78702376397376
+2019-02-19,SAST - pylint and hadolint,normalized pylint score,50.529360970661656
+2019-02-21,SAST - pylint and hadolint,normalized pylint score,50.057225240259
+2019-02-19,SAST - pylint and hadolint,normalized pylint score,50.06834641382713
+2019-02-25,SAST - pylint and hadolint,normalized pylint score,50.0122251456314
+2019-02-02,SAST - pylint and hadolint,normalized pylint score,49.7097654938147
+2019-02-10,SAST - pylint and hadolint,normalized pylint score,50.278651847418594
+2019-02-07,SAST - pylint and hadolint,normalized pylint score,50.36593256977353
+2019-02-27,SAST - pylint and hadolint,normalized pylint score,59.94407911993246
+2019-03-01,SAST - pylint and hadolint,normalized pylint score,60.26430961152989
+2019-03-12,SAST - pylint and hadolint,normalized pylint score,59.96678949181945
+2019-03-07,SAST - pylint and hadolint,normalized pylint score,59.682287176926074
+2019-03-16,SAST - pylint and hadolint,normalized pylint score,60.11339633766303
+2019-03-10,SAST - pylint and hadolint,normalized pylint score,60.0035738708105
+2019-03-05,SAST - pylint and hadolint,normalized pylint score,60.277617126724174
+2019-03-15,SAST - pylint and hadolint,normalized pylint score,59.66936229491344
+2019-03-03,SAST - pylint and hadolint,normalized pylint score,59.74515322194165
+2019-03-07,SAST - pylint and hadolint,normalized pylint score,59.5004042326859
+2019-03-13,SAST - pylint and hadolint,normalized pylint score,60.123233906385735
+2019-03-03,SAST - pylint and hadolint,normalized pylint score,60.69863454636221
+2019-03-04,SAST - pylint and hadolint,normalized pylint score,59.774352071696086
+2019-03-19,SAST - pylint and hadolint,normalized pylint score,60.02996606248245
+2019-03-05,SAST - pylint and hadolint,normalized pylint score,59.88934819027066
+2019-03-19,SAST - pylint and hadolint,normalized pylint score,60.228443323655135
+2019-03-18,SAST - pylint and hadolint,normalized pylint score,60.2170327029305
+2019-03-02,SAST - pylint and hadolint,normalized pylint score,60.4963947475076
+2019-03-06,SAST - pylint and hadolint,normalized pylint score,59.49437639517019
+2019-03-12,SAST - pylint and hadolint,normalized pylint score,60.503559635036005
+2019-03-04,SAST - pylint and hadolint,normalized pylint score,59.98675585147804
+2019-03-04,SAST - pylint and hadolint,normalized pylint score,60.088437547699684
+2019-03-16,SAST - pylint and hadolint,normalized pylint score,59.86918634640759
+2019-03-19,SAST - pylint and hadolint,normalized pylint score,59.57794557598958
+2019-03-11,SAST - pylint and hadolint,normalized pylint score,60.32020495184003
+2019-03-14,SAST - pylint and hadolint,normalized pylint score,60.04830905569886
+2019-02-28,SAST - pylint and hadolint,normalized pylint score,59.430288929262844
+2019-02-27,SAST - pylint and hadolint,normalized pylint score,60.400235105877165
+2019-03-18,SAST - pylint and hadolint,normalized pylint score,60.230491002626415
+2019-03-03,SAST - pylint and hadolint,normalized pylint score,59.92207035807755
+2019-03-10,SAST - pylint and hadolint,normalized pylint score,59.787082562645224
+2019-03-19,SAST - pylint and hadolint,normalized pylint score,59.92604102312751
+2019-03-04,SAST - pylint and hadolint,normalized pylint score,60.44420750346575
+2019-03-01,SAST - pylint and hadolint,normalized pylint score,60.388153697244675
+2019-03-12,SAST - pylint and hadolint,normalized pylint score,60.57055409403392
+2019-03-06,SAST - pylint and hadolint,normalized pylint score,60.37603876859959
+2019-03-09,SAST - pylint and hadolint,normalized pylint score,59.8210656189747
+2019-03-14,SAST - pylint and hadolint,normalized pylint score,59.741744574125434
+2019-03-17,SAST - pylint and hadolint,normalized pylint score,60.503671602063534
+2019-03-02,SAST - pylint and hadolint,normalized pylint score,59.72810483936491
+2019-03-10,SAST - pylint and hadolint,normalized pylint score,59.63435239317067
+2019-03-19,SAST - pylint and hadolint,normalized pylint score,60.221622647186294
+2019-03-12,SAST - pylint and hadolint,normalized pylint score,60.355056431750235
+2019-03-09,SAST - pylint and hadolint,normalized pylint score,60.49786275725664
+2019-03-02,SAST - pylint and hadolint,normalized pylint score,59.819149276147556
+2019-03-13,SAST - pylint and hadolint,normalized pylint score,59.94506218313307
+2019-03-15,SAST - pylint and hadolint,normalized pylint score,60.06979043121013
+2019-03-13,SAST - pylint and hadolint,normalized pylint score,60.08270413475442
+2019-03-12,SAST - pylint and hadolint,normalized pylint score,60.494604022427836
+2019-03-18,SAST - pylint and hadolint,normalized pylint score,59.7362478674191
+2019-02-10,SAST - pylint and hadolint,normalized hadolint score,60.35200477014623
+2019-02-02,SAST - pylint and hadolint,normalized hadolint score,59.957903824401455
+2019-02-11,SAST - pylint and hadolint,normalized hadolint score,60.591642829328194
+2019-01-24,SAST - pylint and hadolint,normalized hadolint score,60.174711052674105
+2019-02-25,SAST - pylint and hadolint,normalized hadolint score,60.06780073687257
+2019-02-23,SAST - pylint and hadolint,normalized hadolint score,59.999337417881556
+2019-02-02,SAST - pylint and hadolint,normalized hadolint score,60.19620560337257
+2019-02-23,SAST - pylint and hadolint,normalized hadolint score,59.824707307717084
+2019-02-09,SAST - pylint and hadolint,normalized hadolint score,60.13939382542198
+2019-02-23,SAST - pylint and hadolint,normalized hadolint score,59.06324176205686
+2019-02-11,SAST - pylint and hadolint,normalized hadolint score,59.99656815341811
+2019-01-19,SAST - pylint and hadolint,normalized hadolint score,59.89474637561967
+2019-02-21,SAST - pylint and hadolint,normalized hadolint score,59.95637244403374
+2019-02-24,SAST - pylint and hadolint,normalized hadolint score,59.904199398381905
+2019-01-25,SAST - pylint and hadolint,normalized hadolint score,59.64508061355527
+2019-01-26,SAST - pylint and hadolint,normalized hadolint score,59.32150627276443
+2019-02-22,SAST - pylint and hadolint,normalized hadolint score,59.65849918614087
+2019-02-26,SAST - pylint and hadolint,normalized hadolint score,60.53835400101614
+2019-02-15,SAST - pylint and hadolint,normalized hadolint score,59.26255299502996
+2019-02-08,SAST - pylint and hadolint,normalized hadolint score,60.144564609745714
+2019-01-18,SAST - pylint and hadolint,normalized hadolint score,59.63857284861477
+2019-02-23,SAST - pylint and hadolint,normalized hadolint score,60.13649963511253
+2019-02-24,SAST - pylint and hadolint,normalized hadolint score,59.995687312039855
+2019-01-28,SAST - pylint and hadolint,normalized hadolint score,59.89787525897605
+2019-01-28,SAST - pylint and hadolint,normalized hadolint score,59.666296302698754
+2019-01-24,SAST - pylint and hadolint,normalized hadolint score,60.269459138720165
+2019-02-08,SAST - pylint and hadolint,normalized hadolint score,60.09371977104395
+2019-02-27,SAST - pylint and hadolint,normalized hadolint score,59.91907853745765
+2019-02-18,SAST - pylint and hadolint,normalized hadolint score,60.02181247460709
+2019-02-18,SAST - pylint and hadolint,normalized hadolint score,59.780988002538386
+2019-02-17,SAST - pylint and hadolint,normalized hadolint score,60.06901923144184
+2019-02-18,SAST - pylint and hadolint,normalized hadolint score,59.18869795640693
+2019-02-13,SAST - pylint and hadolint,normalized hadolint score,59.801135818951884
+2019-02-22,SAST - pylint and hadolint,normalized hadolint score,59.01045747468739
+2019-01-27,SAST - pylint and hadolint,normalized hadolint score,59.90064107920949
+2019-01-21,SAST - pylint and hadolint,normalized hadolint score,59.99791577758639
+2019-02-14,SAST - pylint and hadolint,normalized hadolint score,59.60995659917681
+2019-02-27,SAST - pylint and hadolint,normalized hadolint score,60.38877683314693
+2019-01-25,SAST - pylint and hadolint,normalized hadolint score,60.19805932756012
+2019-02-05,SAST - pylint and hadolint,normalized hadolint score,59.996693753390765
+2019-02-08,SAST - pylint and hadolint,normalized hadolint score,60.228149129353916
+2019-02-11,SAST - pylint and hadolint,normalized hadolint score,59.97337916496922
+2019-02-01,SAST - pylint and hadolint,normalized hadolint score,60.51036586636702
+2019-02-03,SAST - pylint and hadolint,normalized hadolint score,59.497166421761364
+2019-01-29,SAST - pylint and hadolint,normalized hadolint score,60.019919532005716
+2019-01-20,SAST - pylint and hadolint,normalized hadolint score,59.643699685739705
+2019-02-26,SAST - pylint and hadolint,normalized hadolint score,59.729807078235105
+2019-02-13,SAST - pylint and hadolint,normalized hadolint score,59.99877501859687
+2019-02-09,SAST - pylint and hadolint,normalized hadolint score,60.116370862962995
+2019-02-17,SAST - pylint and hadolint,normalized hadolint score,60.79726578308144
+2019-03-04,SAST - pylint and hadolint,normalized hadolint score,89.8314678061649
+2019-03-13,SAST - pylint and hadolint,normalized hadolint score,89.9570875676315
+2019-03-08,SAST - pylint and hadolint,normalized hadolint score,90.14751294329353
+2019-03-17,SAST - pylint and hadolint,normalized hadolint score,90.05232373134812
+2019-03-01,SAST - pylint and hadolint,normalized hadolint score,89.81238624421547
+2019-03-11,SAST - pylint and hadolint,normalized hadolint score,89.98580363201387
+2019-02-27,SAST - pylint and hadolint,normalized hadolint score,90.12016929788527
+2019-03-08,SAST - pylint and hadolint,normalized hadolint score,90.02498186754426
+2019-03-09,SAST - pylint and hadolint,normalized hadolint score,90.02547891541396
+2019-03-15,SAST - pylint and hadolint,normalized hadolint score,89.89419706922334
+2019-03-16,SAST - pylint and hadolint,normalized hadolint score,90.12134297597258
+2019-03-10,SAST - pylint and hadolint,normalized hadolint score,90.00522130883027
+2019-03-06,SAST - pylint and hadolint,normalized hadolint score,90.06271659915174
+2019-03-16,SAST - pylint and hadolint,normalized hadolint score,89.95822956220692
+2019-03-14,SAST - pylint and hadolint,normalized hadolint score,90.03225284790838
+2019-03-03,SAST - pylint and hadolint,normalized hadolint score,90.0129086057361
+2019-03-10,SAST - pylint and hadolint,normalized hadolint score,89.90557369505692
+2019-02-27,SAST - pylint and hadolint,normalized hadolint score,89.88994241290247
+2019-03-03,SAST - pylint and hadolint,normalized hadolint score,90.07900122049172
+2019-03-18,SAST - pylint and hadolint,normalized hadolint score,89.98657632240267
+2019-02-27,SAST - pylint and hadolint,normalized hadolint score,89.8326013495485
+2019-03-02,SAST - pylint and hadolint,normalized hadolint score,89.80288819014339
+2019-03-07,SAST - pylint and hadolint,normalized hadolint score,90.07410202738268
+2019-03-17,SAST - pylint and hadolint,normalized hadolint score,90.00294212627635
+2019-03-07,SAST - pylint and hadolint,normalized hadolint score,90.17275624448337
+2019-03-11,SAST - pylint and hadolint,normalized hadolint score,89.93801347891844
+2019-03-10,SAST - pylint and hadolint,normalized hadolint score,90.02313367949469
+2019-03-14,SAST - pylint and hadolint,normalized hadolint score,89.87088034525509
+2019-03-19,SAST - pylint and hadolint,normalized hadolint score,89.92664917712322
+2019-02-28,SAST - pylint and hadolint,normalized hadolint score,89.997250424032
+2019-03-15,SAST - pylint and hadolint,normalized hadolint score,90.12652897610144
+2019-03-02,SAST - pylint and hadolint,normalized hadolint score,89.92450184372251
+2019-03-13,SAST - pylint and hadolint,normalized hadolint score,89.99206271425551
+2019-03-19,SAST - pylint and hadolint,normalized hadolint score,90.0690922318197
+2019-03-10,SAST - pylint and hadolint,normalized hadolint score,90.01342458862352
+2019-02-28,SAST - pylint and hadolint,normalized hadolint score,89.97514183170385
+2019-03-10,SAST - pylint and hadolint,normalized hadolint score,89.98851513269743
+2019-03-19,SAST - pylint and hadolint,normalized hadolint score,89.93491401063123
+2019-03-15,SAST - pylint and hadolint,normalized hadolint score,89.99478154519903
+2019-03-04,SAST - pylint and hadolint,normalized hadolint score,89.9917184202998
+2019-03-12,SAST - pylint and hadolint,normalized hadolint score,90.10302251658969
+2019-02-27,SAST - pylint and hadolint,normalized hadolint score,89.93461939045669
+2019-03-14,SAST - pylint and hadolint,normalized hadolint score,90.04968456717188
+2019-03-06,SAST - pylint and hadolint,normalized hadolint score,90.00167107364307
+2019-03-01,SAST - pylint and hadolint,normalized hadolint score,89.91650803437277
+2019-03-03,SAST - pylint and hadolint,normalized hadolint score,89.9431317813836
+2019-03-03,SAST - pylint and hadolint,normalized hadolint score,89.83595201324852
+2019-03-08,SAST - pylint and hadolint,normalized hadolint score,89.98328871919962
+2019-03-17,SAST - pylint and hadolint,normalized hadolint score,89.87906744518179
+2019-03-01,SAST - pylint and hadolint,normalized hadolint score,89.90544473139417
+2019-01-05,trufflehog,secrets in code,2
+2019-03-07,trufflehog,secrets in code,1
+2018-10-27,trufflehog,secrets in code,1
+2019-01-15,trufflehog,secrets in code,1
+2019-01-09,trufflehog,secrets in code,1
+2019-01-15,trufflehog,secrets in code,1
+2018-12-25,trufflehog,secrets in code,0
+2019-01-29,trufflehog,secrets in code,0
+2019-01-05,trufflehog,secrets in code,0
+2018-12-11,trufflehog,secrets in code,0
+2019-02-17,trufflehog,secrets in code,0
+2018-11-09,trufflehog,secrets in code,0
+2019-01-02,trufflehog,secrets in code,0
+2019-02-22,trufflehog,secrets in code,0
+2018-10-19,trufflehog,secrets in code,0
+2018-11-18,trufflehog,secrets in code,0
+2018-11-19,trufflehog,secrets in code,0
+2018-12-28,trufflehog,secrets in code,0
+2018-10-13,trufflehog,secrets in code,0
+2018-10-06,trufflehog,secrets in code,0
+2018-10-01,trufflehog,secrets in code,0
+2018-11-21,trufflehog,secrets in code,0
+2018-09-28,trufflehog,secrets in code,0
+2018-12-17,trufflehog,secrets in code,0
+2019-03-17,trufflehog,secrets in code,0
+2019-02-06,trufflehog,secrets in code,0
+2019-03-18,trufflehog,secrets in code,0
+2019-03-17,trufflehog,secrets in code,0
+2018-10-19,trufflehog,secrets in code,0
+2018-12-04,trufflehog,secrets in code,0
+2018-09-21,trufflehog,secrets in code,0
+2019-01-07,trufflehog,secrets in code,0
+2018-11-26,trufflehog,secrets in code,0
+2018-12-28,trufflehog,secrets in code,0
+2019-02-15,trufflehog,secrets in code,0
+2018-11-16,trufflehog,secrets in code,0
+2019-02-27,trufflehog,secrets in code,0
+2019-03-12,trufflehog,secrets in code,0
+2019-02-15,trufflehog,secrets in code,0
+2018-12-05,trufflehog,secrets in code,0
+2019-02-20,trufflehog,secrets in code,0
+2019-03-18,trufflehog,secrets in code,0
+2019-03-10,trufflehog,secrets in code,0
+2019-02-21,trufflehog,secrets in code,0
+2018-10-08,trufflehog,secrets in code,0
+2018-12-27,trufflehog,secrets in code,0
+2019-02-07,trufflehog,secrets in code,0
+2018-10-25,trufflehog,secrets in code,0
+2019-01-29,trufflehog,secrets in code,0
+2018-10-05,trufflehog,secrets in code,0
+2019-03-09,trufflehog,secrets in code,0
+2018-10-02,trufflehog,secrets in code,0
+2019-03-17,trufflehog,secrets in code,0
+2019-02-23,trufflehog,secrets in code,0
+2019-01-25,trufflehog,secrets in code,0
+2019-02-25,trufflehog,secrets in code,0
+2018-11-27,trufflehog,secrets in code,0
+2018-10-01,trufflehog,secrets in code,0
+2018-10-01,trufflehog,secrets in code,0
+2019-02-06,trufflehog,secrets in code,0
+2019-01-25,trufflehog,secrets in code,0
+2019-03-18,trufflehog,secrets in code,0
+2018-12-20,trufflehog,secrets in code,0
+2019-03-19,trufflehog,secrets in code,0
+2018-09-22,trufflehog,secrets in code,0
+2018-10-28,trufflehog,secrets in code,0
+2018-10-26,trufflehog,secrets in code,0
+2018-12-06,trufflehog,secrets in code,0
+2018-12-10,trufflehog,secrets in code,0
+2018-10-02,trufflehog,secrets in code,0
+2019-02-28,trufflehog,secrets in code,0
+2019-01-13,trufflehog,secrets in code,0
+2018-12-26,trufflehog,secrets in code,0
+2018-09-27,trufflehog,secrets in code,0
+2018-12-06,trufflehog,secrets in code,0
+2018-11-13,trufflehog,secrets in code,0
+2019-03-07,trufflehog,secrets in code,0
+2018-10-24,trufflehog,secrets in code,0
+2019-03-07,trufflehog,secrets in code,0
+2019-01-25,trufflehog,secrets in code,0
+2018-10-25,trufflehog,secrets in code,0
+2018-10-07,trufflehog,secrets in code,0
+2018-12-20,trufflehog,secrets in code,0
+2018-11-07,trufflehog,secrets in code,0
+2019-01-09,trufflehog,secrets in code,0
+2018-11-18,trufflehog,secrets in code,0
+2018-09-23,trufflehog,secrets in code,0
+2018-10-22,trufflehog,secrets in code,0
+2019-01-06,trufflehog,secrets in code,0
+2018-11-23,trufflehog,secrets in code,0
+2019-02-01,trufflehog,secrets in code,0
+2018-12-29,trufflehog,secrets in code,0
+2018-10-23,trufflehog,secrets in code,0
+2019-03-01,trufflehog,secrets in code,0
+2019-01-25,trufflehog,secrets in code,0
+2019-01-24,trufflehog,secrets in code,0
+2018-10-23,trufflehog,secrets in code,0
+2019-03-06,trufflehog,secrets in code,0
+2019-03-04,trufflehog,secrets in code,0
+2019-01-23,trufflehog,secrets in code,0
+2019-02-14,trufflehog,secrets in code,0
+2018-10-10,trufflehog,secrets in code,0
+2018-12-18,trufflehog,secrets in code,0
+2018-12-28,trufflehog,secrets in code,0
+2018-11-11,trufflehog,secrets in code,0
+2018-10-17,trufflehog,secrets in code,0
+2018-11-28,dependency checker,unique dependencies scanned,13
+2018-10-14,dependency checker,unique dependencies scanned,13
+2018-12-10,dependency checker,unique dependencies scanned,13
+2018-11-27,dependency checker,unique dependencies scanned,13
+2018-09-29,dependency checker,unique dependencies scanned,13
+2018-12-06,dependency checker,unique dependencies scanned,13
+2018-10-30,dependency checker,unique dependencies scanned,13
+2019-01-06,dependency checker,unique dependencies scanned,13
+2018-10-17,dependency checker,unique dependencies scanned,13
+2018-12-25,dependency checker,unique dependencies scanned,13
+2018-12-28,dependency checker,unique dependencies scanned,13
+2018-12-28,dependency checker,unique dependencies scanned,13
+2018-11-11,dependency checker,unique dependencies scanned,13
+2018-10-26,dependency checker,unique dependencies scanned,13
+2018-12-10,dependency checker,unique dependencies scanned,13
+2018-09-21,dependency checker,unique dependencies scanned,13
+2018-09-20,dependency checker,unique dependencies scanned,13
+2018-10-11,dependency checker,unique dependencies scanned,13
+2018-12-09,dependency checker,unique dependencies scanned,13
+2019-01-19,dependency checker,unique dependencies scanned,13
+2018-11-11,dependency checker,unique dependencies scanned,13
+2018-12-28,dependency checker,unique dependencies scanned,13
+2018-09-28,dependency checker,unique dependencies scanned,13
+2019-01-28,dependency checker,unique dependencies scanned,13
+2018-09-20,dependency checker,unique dependencies scanned,13
+2018-12-13,dependency checker,unique dependencies scanned,13
+2018-12-28,dependency checker,unique dependencies scanned,13
+2018-11-17,dependency checker,unique dependencies scanned,13
+2018-12-07,dependency checker,unique dependencies scanned,13
+2018-12-09,dependency checker,unique dependencies scanned,13
+2019-01-20,dependency checker,unique dependencies scanned,13
+2018-12-30,dependency checker,unique dependencies scanned,13
+2019-01-23,dependency checker,unique dependencies scanned,13
+2018-11-25,dependency checker,unique dependencies scanned,13
+2019-01-14,dependency checker,unique dependencies scanned,13
+2019-01-04,dependency checker,unique dependencies scanned,13
+2018-12-24,dependency checker,unique dependencies scanned,13
+2018-10-27,dependency checker,unique dependencies scanned,13
+2019-01-12,dependency checker,unique dependencies scanned,13
+2019-02-04,dependency checker,unique dependencies scanned,13
+2018-11-04,dependency checker,unique dependencies scanned,13
+2018-10-18,dependency checker,unique dependencies scanned,13
+2018-11-07,dependency checker,unique dependencies scanned,13
+2018-09-30,dependency checker,unique dependencies scanned,13
+2018-10-17,dependency checker,unique dependencies scanned,13
+2018-12-21,dependency checker,unique dependencies scanned,13
+2018-12-31,dependency checker,unique dependencies scanned,13
+2019-01-30,dependency checker,unique dependencies scanned,13
+2018-12-21,dependency checker,unique dependencies scanned,13
+2018-12-27,dependency checker,unique dependencies scanned,13
+2018-11-29,dependency checker,unique dependencies scanned,13
+2018-11-08,dependency checker,unique dependencies scanned,13
+2018-11-28,dependency checker,unique dependencies scanned,13
+2018-09-26,dependency checker,unique dependencies scanned,13
+2018-10-26,dependency checker,unique dependencies scanned,13
+2019-02-06,dependency checker,unique dependencies scanned,13
+2019-01-14,dependency checker,unique dependencies scanned,13
+2018-12-21,dependency checker,unique dependencies scanned,13
+2019-02-01,dependency checker,unique dependencies scanned,13
+2019-01-18,dependency checker,unique dependencies scanned,13
+2019-02-07,dependency checker,unique dependencies scanned,13
+2018-10-28,dependency checker,unique dependencies scanned,13
+2018-10-14,dependency checker,unique dependencies scanned,13
+2018-10-21,dependency checker,unique dependencies scanned,13
+2018-12-16,dependency checker,unique dependencies scanned,13
+2019-01-01,dependency checker,unique dependencies scanned,13
+2018-10-03,dependency checker,unique dependencies scanned,13
+2018-12-28,dependency checker,unique dependencies scanned,13
+2018-12-14,dependency checker,unique dependencies scanned,13
+2019-01-16,dependency checker,unique dependencies scanned,13
+2018-12-27,dependency checker,unique dependencies scanned,13
+2019-02-10,dependency checker,unique dependencies scanned,13
+2018-12-02,dependency checker,unique dependencies scanned,13
+2018-10-16,dependency checker,unique dependencies scanned,13
+2018-11-19,dependency checker,unique dependencies scanned,13
+2018-11-01,dependency checker,unique dependencies scanned,13
+2019-02-08,dependency checker,unique dependencies scanned,13
+2018-11-28,dependency checker,unique dependencies scanned,13
+2019-01-01,dependency checker,unique dependencies scanned,13
+2019-02-03,dependency checker,unique dependencies scanned,13
+2018-09-26,dependency checker,unique dependencies scanned,13
+2019-01-09,dependency checker,unique dependencies scanned,13
+2018-11-09,dependency checker,unique dependencies scanned,13
+2018-11-08,dependency checker,unique dependencies scanned,13
+2018-10-04,dependency checker,unique dependencies scanned,13
+2018-10-26,dependency checker,unique dependencies scanned,13
+2018-10-28,dependency checker,unique dependencies scanned,13
+2018-09-20,dependency checker,unique dependencies scanned,13
+2018-12-09,dependency checker,unique dependencies scanned,13
+2019-02-10,dependency checker,unique dependencies scanned,13
+2019-01-23,dependency checker,unique dependencies scanned,13
+2018-10-03,dependency checker,unique dependencies scanned,13
+2018-11-29,dependency checker,unique dependencies scanned,13
+2018-11-22,dependency checker,unique dependencies scanned,13
+2018-10-18,dependency checker,unique dependencies scanned,13
+2018-11-20,dependency checker,unique dependencies scanned,13
+2018-11-17,dependency checker,unique dependencies scanned,13
+2018-11-08,dependency checker,unique dependencies scanned,13
+2018-10-06,dependency checker,unique dependencies scanned,13
+2018-12-24,dependency checker,unique dependencies scanned,13
+2019-02-18,dependency checker,unique dependencies scanned,25
+2019-02-25,dependency checker,unique dependencies scanned,25
+2019-02-24,dependency checker,unique dependencies scanned,25
+2019-02-25,dependency checker,unique dependencies scanned,25
+2019-02-22,dependency checker,unique dependencies scanned,25
+2019-02-20,dependency checker,unique dependencies scanned,25
+2019-02-19,dependency checker,unique dependencies scanned,25
+2019-02-18,dependency checker,unique dependencies scanned,25
+2019-02-18,dependency checker,unique dependencies scanned,25
+2019-02-26,dependency checker,unique dependencies scanned,25
+2019-03-15,dependency checker,unique dependencies scanned,29
+2019-03-06,dependency checker,unique dependencies scanned,29
+2019-03-15,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-09,dependency checker,unique dependencies scanned,29
+2019-03-17,dependency checker,unique dependencies scanned,29
+2019-03-06,dependency checker,unique dependencies scanned,29
+2019-03-08,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-03,dependency checker,unique dependencies scanned,29
+2019-03-13,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-02,dependency checker,unique dependencies scanned,29
+2019-03-02,dependency checker,unique dependencies scanned,29
+2019-03-07,dependency checker,unique dependencies scanned,29
+2019-03-09,dependency checker,unique dependencies scanned,29
+2019-03-02,dependency checker,unique dependencies scanned,29
+2019-03-19,dependency checker,unique dependencies scanned,29
+2019-03-01,dependency checker,unique dependencies scanned,29
+2019-03-17,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-10,dependency checker,unique dependencies scanned,29
+2019-03-04,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-08,dependency checker,unique dependencies scanned,29
+2019-03-01,dependency checker,unique dependencies scanned,29
+2019-03-15,dependency checker,unique dependencies scanned,29
+2019-03-17,dependency checker,unique dependencies scanned,29
+2019-03-06,dependency checker,unique dependencies scanned,29
+2019-03-07,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-17,dependency checker,unique dependencies scanned,29
+2019-03-13,dependency checker,unique dependencies scanned,29
+2019-03-10,dependency checker,unique dependencies scanned,29
+2019-03-16,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-19,dependency checker,unique dependencies scanned,29
+2019-03-02,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-11,dependency checker,unique dependencies scanned,29
+2019-03-14,dependency checker,unique dependencies scanned,29
+2019-03-15,dependency checker,unique dependencies scanned,29
+2019-03-06,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-04,dependency checker,unique dependencies scanned,29
+2019-03-17,dependency checker,unique dependencies scanned,29
+2019-03-06,dependency checker,unique dependencies scanned,29
+2019-03-17,dependency checker,unique dependencies scanned,29
+2019-03-02,dependency checker,unique dependencies scanned,29
+2019-03-19,dependency checker,unique dependencies scanned,29
+2019-03-10,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-02,dependency checker,unique dependencies scanned,29
+2019-03-05,dependency checker,unique dependencies scanned,29
+2019-03-01,dependency checker,unique dependencies scanned,29
+2019-03-05,dependency checker,unique dependencies scanned,29
+2019-03-03,dependency checker,unique dependencies scanned,29
+2019-03-10,dependency checker,unique dependencies scanned,29
+2019-03-06,dependency checker,unique dependencies scanned,29
+2019-03-10,dependency checker,unique dependencies scanned,29
+2019-03-16,dependency checker,unique dependencies scanned,29
+2019-03-16,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-16,dependency checker,unique dependencies scanned,29
+2019-03-17,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-16,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-05,dependency checker,unique dependencies scanned,29
+2019-03-10,dependency checker,unique dependencies scanned,29
+2019-03-08,dependency checker,unique dependencies scanned,29
+2019-03-07,dependency checker,unique dependencies scanned,29
+2019-03-13,dependency checker,unique dependencies scanned,29
+2019-03-04,dependency checker,unique dependencies scanned,29
+2019-03-15,dependency checker,unique dependencies scanned,29
+2019-03-11,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-16,dependency checker,unique dependencies scanned,29
+2019-03-11,dependency checker,unique dependencies scanned,29
+2019-03-15,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-18,dependency checker,unique dependencies scanned,29
+2019-03-19,dependency checker,unique dependencies scanned,29
+2019-03-11,dependency checker,unique dependencies scanned,29
+2019-03-14,dependency checker,unique dependencies scanned,29
+2019-03-04,dependency checker,unique dependencies scanned,29
+2019-03-16,dependency checker,unique dependencies scanned,29
+2019-03-17,dependency checker,unique dependencies scanned,29
+2019-03-19,dependency checker,unique dependencies scanned,29
+2019-03-13,dependency checker,unique dependencies scanned,29
+2019-03-04,dependency checker,unique dependencies scanned,29
+2019-03-14,dependency checker,unique dependencies scanned,29
+2019-03-12,dependency checker,unique dependencies scanned,29
+2019-03-02,dependency checker,unique dependencies scanned,29
+2019-03-05,dependency checker,unique dependencies scanned,29
+2019-02-19,dependency checker,vulnerable dependencies,10
+2019-02-20,dependency checker,vulnerable dependencies,10
+2019-02-22,dependency checker,vulnerable dependencies,10
+2019-02-24,dependency checker,vulnerable dependencies,10
+2019-02-24,dependency checker,vulnerable dependencies,10
+2019-02-22,dependency checker,vulnerable dependencies,10
+2019-02-26,dependency checker,vulnerable dependencies,10
+2019-02-17,dependency checker,vulnerable dependencies,10
+2019-02-27,dependency checker,vulnerable dependencies,10
+2019-02-23,dependency checker,vulnerable dependencies,10
+2019-03-03,dependency checker,vulnerable dependencies,2
+2019-03-05,dependency checker,vulnerable dependencies,2
+2019-02-28,dependency checker,vulnerable dependencies,2
+2019-03-08,dependency checker,vulnerable dependencies,2
+2019-03-03,dependency checker,vulnerable dependencies,2
+2019-03-02,dependency checker,vulnerable dependencies,2
+2019-03-04,dependency checker,vulnerable dependencies,2
+2019-03-08,dependency checker,vulnerable dependencies,2
+2019-02-28,dependency checker,vulnerable dependencies,2
+2019-03-07,dependency checker,vulnerable dependencies,2
+2019-03-10,dependency checker,vulnerable dependencies,0
+2019-03-12,dependency checker,vulnerable dependencies,0
+2019-03-14,dependency checker,vulnerable dependencies,0
+2019-03-10,dependency checker,vulnerable dependencies,0
+2019-03-14,dependency checker,vulnerable dependencies,0
+2019-03-10,dependency checker,vulnerable dependencies,0
+2019-03-10,dependency checker,vulnerable dependencies,0
+2019-03-13,dependency checker,vulnerable dependencies,0
+2019-03-11,dependency checker,vulnerable dependencies,0
+2019-03-13,dependency checker,vulnerable dependencies,0
+2019-02-27,dependency checker,vulnerabilities suppressed,0
+2019-02-26,dependency checker,vulnerabilities suppressed,0
+2019-02-20,dependency checker,vulnerabilities suppressed,0
+2019-02-26,dependency checker,vulnerabilities suppressed,0
+2019-02-26,dependency checker,vulnerabilities suppressed,0
+2019-02-25,dependency checker,vulnerabilities suppressed,0
+2019-02-25,dependency checker,vulnerabilities suppressed,0
+2019-02-21,dependency checker,vulnerabilities suppressed,0
+2019-02-18,dependency checker,vulnerabilities suppressed,0
+2019-02-25,dependency checker,vulnerabilities suppressed,0
+2019-03-02,dependency checker,vulnerabilities suppressed,8
+2019-03-01,dependency checker,vulnerabilities suppressed,8
+2019-03-08,dependency checker,vulnerabilities suppressed,8
+2019-03-02,dependency checker,vulnerabilities suppressed,8
+2019-03-03,dependency checker,vulnerabilities suppressed,8
+2019-03-08,dependency checker,vulnerabilities suppressed,8
+2019-03-08,dependency checker,vulnerabilities suppressed,8
+2019-03-03,dependency checker,vulnerabilities suppressed,8
+2019-03-07,dependency checker,vulnerabilities suppressed,8
+2019-03-06,dependency checker,vulnerabilities suppressed,8
+2019-03-09,dependency checker,vulnerabilities suppressed,2
+2019-03-14,dependency checker,vulnerabilities suppressed,2
+2019-03-14,dependency checker,vulnerabilities suppressed,2
+2019-03-14,dependency checker,vulnerabilities suppressed,2
+2019-03-16,dependency checker,vulnerabilities suppressed,2
+2019-03-19,dependency checker,vulnerabilities suppressed,2
+2019-03-17,dependency checker,vulnerabilities suppressed,2
+2019-03-13,dependency checker,vulnerabilities suppressed,2
+2019-03-17,dependency checker,vulnerabilities suppressed,2
+2019-03-13,dependency checker,vulnerabilities suppressed,2

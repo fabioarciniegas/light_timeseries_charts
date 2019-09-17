@@ -1,0 +1,212 @@
+time,tool,metric,measure
+2018-10-23,Deployment time (mins),mins,30
+2018-11-08,Deployment time (mins),mins,32
+2018-09-25,Deployment time (mins),mins,31
+2018-12-27,Deployment time (mins),mins,26
+2018-10-27,Deployment time (mins),mins,32
+2018-10-30,Deployment time (mins),mins,30
+2018-09-28,Deployment time (mins),mins,30
+2019-01-16,Deployment time (mins),mins,27
+2018-10-15,Deployment time (mins),mins,30
+2019-01-10,Deployment time (mins),mins,29
+2019-01-01,Deployment time (mins),mins,25
+2019-01-15,Deployment time (mins),mins,33
+2018-10-02,Deployment time (mins),mins,38
+2018-09-29,Deployment time (mins),mins,36
+2018-11-25,Deployment time (mins),mins,30
+2018-10-07,Deployment time (mins),mins,40
+2018-10-16,Deployment time (mins),mins,33
+2018-11-22,Deployment time (mins),mins,28
+2018-12-29,Deployment time (mins),mins,32
+2018-10-02,Deployment time (mins),mins,33
+2019-02-18,Deployment time (mins),mins,5
+2019-02-16,Deployment time (mins),mins,5
+2019-01-22,Deployment time (mins),mins,5
+2019-01-21,Deployment time (mins),mins,6
+2019-02-06,Deployment time (mins),mins,5
+2019-03-14,Deployment time (mins),mins,5
+2019-02-01,Deployment time (mins),mins,5
+2019-02-20,Deployment time (mins),mins,6
+2019-03-10,Deployment time (mins),mins,6
+2019-01-22,Deployment time (mins),mins,6
+2019-03-04,Deployment time (mins),mins,6
+2019-02-17,Deployment time (mins),mins,5
+2019-03-17,Deployment time (mins),mins,6
+2019-03-14,Deployment time (mins),mins,5
+2019-02-28,Deployment time (mins),mins,6
+2019-01-30,Deployment time (mins),mins,5
+2019-01-22,Deployment time (mins),mins,6
+2019-03-09,Deployment time (mins),mins,5
+2019-02-07,Deployment time (mins),mins,5
+2019-01-28,Deployment time (mins),mins,6
+2019-01-19,Down time (mins),mins,26
+2019-02-27,Down time (mins),mins,20
+2019-03-03,Down time (mins),mins,26
+2019-02-02,Down time (mins),mins,19
+2019-02-24,Down time (mins),mins,20
+2019-02-25,Down time (mins),mins,19
+2019-02-17,Down time (mins),mins,19
+2019-03-02,Down time (mins),mins,15
+2019-01-31,Down time (mins),mins,14
+2019-02-27,Down time (mins),mins,21
+2019-03-17,Down time (mins),mins,21
+2019-01-19,Down time (mins),mins,24
+2019-02-25,Down time (mins),mins,28
+2019-03-10,Down time (mins),mins,20
+2019-02-08,Down time (mins),mins,18
+2019-03-19,Down time (mins),mins,19
+2019-02-09,Down time (mins),mins,20
+2019-01-31,Down time (mins),mins,17
+2019-02-12,Down time (mins),mins,30
+2019-01-20,Down time (mins),mins,23
+2019-02-17,Time to recovery (mins),mins,63
+2019-03-01,Time to recovery (mins),mins,67
+2019-03-04,Time to recovery (mins),mins,73
+2019-02-16,Time to recovery (mins),mins,64
+2019-01-29,Time to recovery (mins),mins,63
+2019-03-12,Time to recovery (mins),mins,60
+2019-03-03,Time to recovery (mins),mins,54
+2019-01-21,Time to recovery (mins),mins,58
+2019-02-24,Time to recovery (mins),mins,67
+2019-02-24,Time to recovery (mins),mins,64
+2019-02-07,Time to recovery (mins),mins,48
+2019-01-18,Time to recovery (mins),mins,60
+2019-02-19,Time to recovery (mins),mins,62
+2019-02-13,Time to recovery (mins),mins,52
+2019-02-28,Time to recovery (mins),mins,53
+2019-03-07,Time to recovery (mins),mins,58
+2019-02-02,Time to recovery (mins),mins,61
+2019-01-20,Time to recovery (mins),mins,63
+2019-02-09,Time to recovery (mins),mins,57
+2019-02-13,Time to recovery (mins),mins,58
+2018-06-30,Deployments frequency (per week),frequency,7
+2018-07-16,Deployments frequency (per week),frequency,7
+2019-02-08,Deployments frequency (per week),frequency,9
+2018-12-31,Deployments frequency (per week),frequency,8
+2018-08-21,Deployments frequency (per week),frequency,8
+2018-10-03,Deployments frequency (per week),frequency,7
+2018-08-03,Deployments frequency (per week),frequency,8
+2019-01-26,Deployments frequency (per week),frequency,9
+2019-03-09,Deployments frequency (per week),frequency,8
+2018-10-07,Deployments frequency (per week),frequency,6
+2018-06-25,Deployments frequency (per week),frequency,7
+2018-07-20,Deployments frequency (per week),frequency,7
+2018-05-12,Deployments frequency (per week),frequency,10
+2019-03-15,Deployments frequency (per week),frequency,9
+2019-02-09,Deployments frequency (per week),frequency,9
+2018-07-01,Deployments frequency (per week),frequency,7
+2018-10-27,Deployments frequency (per week),frequency,6
+2018-08-18,Deployments frequency (per week),frequency,7
+2018-03-29,Deployments frequency (per week),frequency,7
+2018-11-14,Deployments frequency (per week),frequency,6
+2018-10-28,Deployments frequency (per week),frequency,7
+2018-05-08,Deployments frequency (per week),frequency,6
+2018-04-15,Deployments frequency (per week),frequency,8
+2018-04-04,Deployments frequency (per week),frequency,8
+2018-05-16,Deployments frequency (per week),frequency,8
+2019-01-13,Deployments frequency (per week),frequency,7
+2019-03-17,Deployments frequency (per week),frequency,9
+2018-04-17,Deployments frequency (per week),frequency,7
+2018-11-15,Deployments frequency (per week),frequency,6
+2018-07-14,Deployments frequency (per week),frequency,6
+2019-02-07,Deployments frequency (per week),frequency,7
+2018-03-19,Deployments frequency (per week),frequency,8
+2019-01-19,Deployments frequency (per week),frequency,7
+2018-09-08,Deployments frequency (per week),frequency,8
+2018-11-22,Deployments frequency (per week),frequency,8
+2018-04-29,Deployments frequency (per week),frequency,8
+2018-10-31,Deployments frequency (per week),frequency,7
+2018-11-17,Deployments frequency (per week),frequency,7
+2019-02-08,Deployments frequency (per week),frequency,9
+2019-03-02,Deployments frequency (per week),frequency,8
+2018-09-24,Deployments frequency (per week),frequency,8
+2018-07-05,Deployments frequency (per week),frequency,7
+2018-12-13,Deployments frequency (per week),frequency,8
+2018-08-23,Deployments frequency (per week),frequency,8
+2018-08-17,Deployments frequency (per week),frequency,7
+2018-10-22,Deployments frequency (per week),frequency,8
+2018-10-23,Deployments frequency (per week),frequency,9
+2018-08-31,Deployments frequency (per week),frequency,7
+2018-07-20,Deployments frequency (per week),frequency,6
+2018-04-01,Deployments frequency (per week),frequency,8
+2018-07-20,Deployments frequency (per week),frequency,7
+2018-08-30,Deployments frequency (per week),frequency,7
+2018-03-26,Deployments frequency (per week),frequency,7
+2018-04-11,Deployments frequency (per week),frequency,9
+2018-03-19,Deployments frequency (per week),frequency,7
+2018-10-29,Deployments frequency (per week),frequency,9
+2018-03-20,Deployments frequency (per week),frequency,9
+2019-02-10,Deployments frequency (per week),frequency,8
+2018-06-28,Deployments frequency (per week),frequency,6
+2018-08-28,Deployments frequency (per week),frequency,7
+2018-08-31,Deployments frequency (per week),frequency,7
+2018-04-09,Deployments frequency (per week),frequency,8
+2018-04-03,Deployments frequency (per week),frequency,8
+2018-12-08,Deployments frequency (per week),frequency,8
+2019-01-25,Deployments frequency (per week),frequency,6
+2018-04-14,Deployments frequency (per week),frequency,9
+2018-07-20,Deployments frequency (per week),frequency,7
+2018-08-19,Deployments frequency (per week),frequency,7
+2018-09-09,Deployments frequency (per week),frequency,7
+2019-02-21,Deployments frequency (per week),frequency,7
+2018-11-18,Deployments frequency (per week),frequency,7
+2018-08-23,Deployments frequency (per week),frequency,7
+2018-06-21,Deployments frequency (per week),frequency,8
+2019-03-16,Deployments frequency (per week),frequency,7
+2018-10-10,Deployments frequency (per week),frequency,7
+2018-11-28,Deployments frequency (per week),frequency,7
+2019-02-10,Deployments frequency (per week),frequency,8
+2018-06-12,Deployments frequency (per week),frequency,8
+2018-07-13,Deployments frequency (per week),frequency,8
+2018-11-16,Deployments frequency (per week),frequency,8
+2018-08-20,Deployments frequency (per week),frequency,7
+2018-11-28,Deployments frequency (per week),frequency,8
+2018-11-14,Deployments frequency (per week),frequency,8
+2019-01-16,Deployments frequency (per week),frequency,10
+2018-05-13,Deployments frequency (per week),frequency,6
+2019-01-26,Deployments frequency (per week),frequency,7
+2019-01-22,Deployments frequency (per week),frequency,9
+2018-11-14,Deployments frequency (per week),frequency,8
+2019-02-09,Deployments frequency (per week),frequency,8
+2018-08-10,Deployments frequency (per week),frequency,10
+2018-09-13,Deployments frequency (per week),frequency,8
+2018-11-15,Deployments frequency (per week),frequency,7
+2019-03-01,Deployments frequency (per week),frequency,7
+2018-11-18,Deployments frequency (per week),frequency,8
+2018-10-05,Deployments frequency (per week),frequency,7
+2018-06-11,Deployments frequency (per week),frequency,7
+2018-04-18,Deployments frequency (per week),frequency,6
+2018-05-07,Deployments frequency (per week),frequency,8
+2018-06-12,Deployments frequency (per week),frequency,8
+2018-05-14,Deployments frequency (per week),frequency,8
+2018-05-20,Deployments frequency (per week),frequency,7
+2018-07-04,Deployments frequency (per week),frequency,7
+2018-12-05,Deployments frequency (per week),frequency,8
+2018-06-26,Deployments frequency (per week),frequency,7
+2018-08-14,Deployments frequency (per week),frequency,6
+2018-04-17,Deployments frequency (per week),frequency,8
+2018-07-18,Deployments frequency (per week),frequency,7
+2018-05-19,Deployments frequency (per week),frequency,6
+2018-11-24,Deployments frequency (per week),frequency,6
+2018-06-20,Deployments frequency (per week),frequency,7
+2018-12-28,Deployments frequency (per week),frequency,8
+2019-01-18,Deployments frequency (per week),frequency,7
+2018-11-06,Deployments frequency (per week),frequency,7
+2019-02-13,Deployments frequency (per week),frequency,8
+2018-10-15,Deployments frequency (per week),frequency,7
+2018-11-23,Deployments frequency (per week),frequency,7
+2018-07-11,Deployments frequency (per week),frequency,6
+2019-02-15,Deployments frequency (per week),frequency,8
+2019-02-16,Deployments frequency (per week),frequency,8
+2018-04-12,Deployments frequency (per week),frequency,7
+2018-11-03,Deployments frequency (per week),frequency,0
+2018-09-29,Deployments frequency (per week),frequency,0
+2018-10-10,Deployments frequency (per week),frequency,0
+2019-02-19,Deployments frequency (per week),frequency,0
+2018-08-15,Deployments frequency (per week),frequency,0
+2018-09-20,Deployments frequency (per week),frequency,0
+2019-02-27,Deployments frequency (per week),frequency,0
+2019-01-03,Deployments frequency (per week),frequency,0
+2018-12-15,Deployments frequency (per week),frequency,12
+2018-08-31,Deployments frequency (per week),frequency,12
+2018-08-04,Deployments frequency (per week),frequency,12
