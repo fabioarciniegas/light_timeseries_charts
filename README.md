@@ -1,4 +1,5 @@
-# Light timeseries charts (mainly for quick aggregation of security tools data)
+# Light timeseries charts 
+## (mainly for quick aggregation of security tools data)
 
 Plot diagrams using arbitrary time series data of the form:
 
