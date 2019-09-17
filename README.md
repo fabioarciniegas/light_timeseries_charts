@@ -16,7 +16,8 @@ time,category,subcategory,measurement
 
 ```
 
-This was created to consolidate counts of security tools vulnerability outputs into simple time series charts as part of a ci/cd pipeline without having to export tool data to a more complex tool such as defectdojo. Instead, data is read a csv file, generating a single png output which can be retrofitted right back to the repository (e.g. in the wiki portion of a gitlab). This allows for quick and inexpensive visual summaries without , where category is a tool and subcategory is a type of finding.  However, it can be used for any arbitrary category and subcategory timeseries you like.
+This was created to consolidate counts of security tools vulnerability outputs into simple time series charts as part of a ci/cd pipeline without having to export tool data to a more complex tool such as defectdojo. Instead, data is read a csv file, generating a single png output which can be retrofitted right back to the repository (e.g. in the wiki portion of a gitlab). This allows for quick and inexpensive visual summaries without much fuzz.
+Normally category is a tool and subcategory is a type of finding, however, this tool can be used for timeseries of any arbitrary category and subcategory you like.
 
 ![Sample Output](sample_output/basic.png)
 
